@@ -1,0 +1,31 @@
+[
+    {
+        "orderedBy": "64a06296aa4421a8e5faa0e2",
+        "address": "Apt 401, Priyadarshini Apartments Indiranagar 2nd Stage 13th Cross Bangalore",
+        "total": 219,
+        "orderItems": [
+            {
+                "name": "Alloplectus",
+                "price": 219,
+                "product": "64a112b52437a5d03b9e69e2"
+            }
+        ]
+    },
+    {
+        "orderedBy": "64a0ed312bb993c1969591dc",
+        "address": "Samarth Nagar, Gulmohar Colony Nasik",
+        "total": 348,
+        "orderItems": [
+            {
+                "name": "Anthurium",
+                "price": 199,
+                "product": "64a112b52437a5d03b9e69e3"
+            },
+            {
+                "name": "Pothos",
+                "price": 149,
+                "product": "64a112b52437a5d03b9e69e6"
+            }
+        ]
+    }
+]

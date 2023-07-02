@@ -26,7 +26,7 @@ const login = async (req, res) => {
 
 const register = async (req, res) => {
     const user = await User.create({ ...req.body })
-    res.status(StatusCodes.OK).json({ msg: "Register Succesful, go to login page", USER_PROFILE: user })
+    res.status(StatusCodes.CREATED).json({ msg: "Register Succesful, go to login page", USER_PROFILE: user })
 }
 
 module.exports = { login, register }

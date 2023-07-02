@@ -12,7 +12,8 @@ const notFound = require('./middleware/not-found')
 const errorHandlerMiddleware = require('./middleware/error-handler')
 // routers
 const authRouter = require('./routes/auth')
-
+const productRouter = require('./routes/product')
+const orderRouter = require('./routes//orders')
 app.use(express.json())
 
 
@@ -23,6 +24,8 @@ app.get('/', (req, res) => {
 // error handler middlewares
 
 app.use('/api/auth', authRouter)
+app.use('/api/product', productRouter)
+app.use('/api/orders', authenticationMiddleware, orderRouter)
 
 app.use(notFound)
 app.use(errorHandlerMiddleware)

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Alloplectus",
+        "description": "Introducing Alloplectus, a botanical rarity that mesmerizes with its captivating allure. This extraordinary plant showcases intricate, sculptural leaves that elegantly unfurl, revealing a tapestry of patterns and textures. With its unique and enchanting presence, Alloplectus adds an element of mystery and sophistication to any collection, making it a must-have for plant connoisseurs seeking a truly extraordinary botanical treasure.",
+        "price": 219
+    },
+    {
+        "name": "Anthurium",
+        "description": "Discover the enchanting allure of Anthurium, a botanical masterpiece that exudes exotic beauty and undeniable sophistication.  Indulge in the mesmerizing elegance of this tropical gem, as it brings a touch of tropical paradise to your home, captivating both your senses and the hearts of all who behold it.",
+        "price": 199
+    },
+    {
+        "name": "Coleus Painter Nettle",
+        "description": "Introducing Coleus Painter Nettle, a living work of art that paints your garden with a kaleidoscope of colors. With its flamboyant foliage splashed in vibrant strokes of red, green, and gold, this show-stopping plant transforms any outdoor space into a mesmerizing tapestry of botanical brilliance. Let the Coleus Painter Nettle be the star of your garden, creating an unforgettable visual masterpiece that leaves all who witness it in awe.",
+        "price": 199
+    },
+    {
+        "name": "Dracaena Reflect",
+        "description": "This elegant houseplant boasts glossy, reflective leaves that effortlessly amplify light, infusing any space with a radiant and tranquil ambiance. Elevate your indoor oasis with the enchanting allure of Dracaena Reflect and bask in the captivating beauty it brings to your home.",
+        "price": 159
+    },
+    {
+        "name": "Pothos",
+        "description": "Unleash the timeless charm of Pothos, the ultimate green companion that breathes life into any room. With its cascading vines and vibrant heart-shaped leaves, Pothos is a stunning houseplant that effortlessly transforms any space into a lush sanctuary. Experience the joy of effortless elegance as Pothos thrives in various lighting conditions, making it the perfect choice for both novice and seasoned plant enthusiasts alike.",
+        "price": 149
+    },
+    {
+        "name": "Red Ivy",
+        "description": "Its deep crimson foliage cascades gracefully, creating a striking contrast against any backdrop. With its cascading tendrils and rich hues, Red Ivy is the perfect choice for those seeking a dramatic and eye-catching addition to their indoor or outdoor environment. Bring a splash of bold color and undeniable elegance into your world with the breathtaking Red Ivy.",
+        "price": 129
+    },
+    {
+        "name": "Tillandsia",
+        "description": "hese whimsical wonders effortlessly drape and cling to any surface, breathing life into even the most unconventional spaces. Embrace the magic of Tillandsia as they create a living, artful display, captivating hearts with their low-maintenance charm and ethereal beauty. Delve into the enchantment of Tillandsia and unlock a captivating botanical journey like no other.",
+        "price": 229
+    },
+    {
+        "name": "Portulaca",
+        "description": "Unveil the radiant charm of Portulaca, also known as Moss Rose, a resilient and vibrant succulent that transforms your garden into a colorful paradise. With its delicate, jewel-toned blooms and succulent-like foliage, Portulaca adds a burst of vivid hues and a touch of whimsy to any landscape. Thriving in hot, dry conditions, this drought-tolerant beauty blooms profusely, creating a carpet of enchanting flowers that will leave you mesmerized. Embrace the allure of Portulaca and let its resilience and beauty paint your garden with nature's vibrant brushstrokes.",
+        "price": 199
+    },
+    {
+        "name": "Periwinkle",
+        "description": "Introducing Periwinkle, a charming groundcover plant that blankets your garden with a tapestry of delicate blossoms. With its dainty, five-petaled flowers in shades of lilac, blue, and white, Periwinkle brings a touch of enchantment to any landscape. This low-maintenance beauty thrives in both sun and shade, creating a lush carpet of evergreen foliage that adds texture and beauty to garden beds, borders, or containers. Embrace the timeless elegance of Periwinkle and let its graceful presence transform your outdoor haven into a tranquil retreat.",
+        "price": 199
+    }
+]

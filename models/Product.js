@@ -13,10 +13,15 @@ const productSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    rating: {
+    avgRating: {
         type: Number,
         min: 1,
         max: 5
+    },
+    price: {
+        type: Number,
+        min: 1,
+        required: [true, "please enter price for product"]
     }
 })
 
