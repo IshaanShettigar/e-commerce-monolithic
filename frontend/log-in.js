@@ -29,14 +29,13 @@ formElement.addEventListener('submit', (e) => {
         }), // Convert data to JSON string
     }).then(response => {
         if (response.ok) {
-            return response.json()
-        }
-        else {
-            if (response.status === "401") {
-                console.log("Unauthorized.")
-
+            return response.json();
+        } else {
+            if (response.status === 401) { // Notice that 401 is a number, not a string
+                alert("Incorrect email or password. Please try again."); // This line displays the alert
+                console.log("Unauthorized.");
             }
-            return Promise.reject(response)
+            return Promise.reject(response);
         }
     })
         .then(responseData => {
