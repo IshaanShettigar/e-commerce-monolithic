@@ -27,17 +27,17 @@ function createCartRow(item) {
     console.log(itemQty, "HELLLO");
     let qtyOption = 1
     if (itemQty == 1) {
-        let qtyOption = `<option>1</option>
+        qtyOption = `<option selected>1</option>
         <option>2</option>
         <option>3</option>`
     }
     else if (itemQty == 2) {
-        let qtyOption = `<option selected>1</option>
+        qtyOption = `<option>1</option>
         <option selected>2</option>
         <option >3</option>`
     }
     else if (itemQty == 3) {
-        let qtyOption = `<option selected>1</option>
+        qtyOption = `<option >1</option>
         <option>2</option>
         <option selected>3</option>`
     }
