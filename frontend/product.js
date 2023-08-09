@@ -16,7 +16,8 @@ p_name.innerHTML = `${productId}`
 addToCartBtn.addEventListener('click', (evt) => {
     evt.preventDefault();
     let cart = localStorage.getItem('cart');
-    cart = cart ? JSON.parse(cart): [];
+    if (!cart) { cart = [] }
+    else { cart = JSON.parse(cart) }
     console.log(cart)
 
     // if (!Array.isArray(cart)) {

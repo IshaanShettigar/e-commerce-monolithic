@@ -15,7 +15,7 @@ const errorHandlerMiddleware = require('./middleware/error-handler')
 // routers
 const authRouter = require('./routes/auth')
 const productRouter = require('./routes/product')
-const orderRouter = require('./routes//orders')
+const orderRouter = require('./routes/orders')
 
 app.use(helmet());
 app.use(cors());
